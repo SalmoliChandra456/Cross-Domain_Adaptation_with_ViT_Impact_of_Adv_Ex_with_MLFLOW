@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716396861112
+current_stage: None
+description: ''
+last_updated_timestamp: 1716396861112
+name: V-b-16-adversarial-model
+run_id: b87a13e8d21942e98cf11ea212a19041
+run_link: ''
+source: file:/Users/mac/Desktop/ADAPTATION_MLFLOW/mlruns_1/504149296649114347/b87a13e8d21942e98cf11ea212a19041/artifacts/model
+status: READY
+status_message: null
+storage_location: file:/Users/mac/Desktop/ADAPTATION_MLFLOW/mlruns_1/504149296649114347/b87a13e8d21942e98cf11ea212a19041/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,21 @@
+artifact_path: adversarial_model
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.13
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.1.2
+mlflow_version: 2.13.0
+model_size_bytes: 343299558
+model_uuid: 9ffc668f6ddf430e89d39a08a48ce102
+run_id: 7aa256c5ad874239bb7812e1cfb281d4
+utc_time_created: '2024-05-21 11:50:51.616036'
